@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning desarrollo full stack
 - 👯 I’m looking to collaborate on ...desarrollo de software backend y frontend
 - 💬 Ask me about ...tipos de lenguajes programación base datos 
-- 📫 Cómo contactar:rony-bolivar-842@hotmail.com
 
 <div alinear="centro">
   <a href="https://github.com/ronybolivar842">
@@ -35,12 +34,11 @@
 </div>
 
 <div>
-  <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000? style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- badge&logo=instagram&logoColor=blanco" target="_blank"></a>
- 	<a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the- insignia&logo=contracción&logoColor=blanco" target="_blank"></a>
- <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo= discordia&logoColor=blanco" target="_blank"></a>
-  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" destino ="_espacio en blanco"></a>
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-% 230077B5?style=para-la-insignia&logo=linkedin&logoColor=blanco" target="_blank"></a>
+ 
+ <a href="https://discord.com/channels/932606406513819668/932608699883749386" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo= discordia&logoColor=blanco" target="_blank"></a>
+  <a href = "https://mail.google.com/mail/u/0/?tab=wm#inbox"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target ="_blank"></a>
+  <a href="https://www.linkedin.com/in/roni-ñahui-bolivar-6a29b41a6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ <a href="https://outlook.live.com/mail/0/" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
  
   ![Animación de serpiente](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
