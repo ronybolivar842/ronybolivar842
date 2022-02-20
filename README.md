@@ -1,5 +1,11 @@
- Hi my name is Rony !👋🖥️👨‍💻
+ <div>
+      <img align="center" alt="welcome" height="300" style="border-radius:50px;" src="https://c.tenor.com/PfwqKNNydVEAAAAC/welcome.gif"> 
+ </div>
+ 
 
+
+Hi my name is Rony !👋🖥️👨‍💻
+ 
 - 🔭 I’m currently working on ...siesa tecnologies
 - 🌱 I’m currently learning desarrollo full stack
 - 👯 I’m looking to collaborate on ...desarrollo de software backend y frontend
