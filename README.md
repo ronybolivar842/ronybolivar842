@@ -1,10 +1,7 @@
  <div>
-      <img align="left" alt="welcome" height="300" style="border-radius:50px;" src="https://c.tenor.com/PfwqKNNydVEAAAAC/welcome.gif"> 
- 
+      <img align="center" alt="welcome" height="300" style="border-radius:50px;" src="https://c.tenor.com/PfwqKNNydVEAAAAC/welcome.gif"> 
  </div>
  
-
-
 Hi my name is Rony !👋🖥️👨‍💻
  
 - 🔭 I’m currently working on ...siesa tecnologies
@@ -15,11 +12,9 @@ Hi my name is Rony !👋🖥️👨‍💻
 <div alinear="centro">
   <a href="https://github.com/ronybolivar842">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ronybolivar842&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronybolivar842&layout=compact&langs_count=7&theme=dark"/>
    <img align="right" alt="Rafa-pic" height="200" style="border-radius:50px;" src="https://i.blogs.es/435a43/7_navegando/450_1000.gif">
-  
-</div>
+  </div>
   
   ##
   
