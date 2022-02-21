@@ -15,6 +15,8 @@ Hi my name is Rony !👋🖥️👨‍💻
   <a href="https://github.com/ronybolivar842">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ronybolivar842&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronybolivar842&layout=compact&langs_count=7&theme=dark"/>
+   <img align="right" alt="Rafa-pic" height="200" style="border-radius:50px;" src="https://i.blogs.es/435a43/7_navegando/450_1000.gif">
+   
 </div>
   
   ##
@@ -36,7 +38,7 @@ Hi my name is Rony !👋🖥️👨‍💻
    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="sqlserver" widtf="40" height="40" style="max-width:100%;margin: 0 2px;"></img> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" widtf="40" height="40" style="max-width:100%;margin: 0 2px;"></img> 
    
-  <img align="right" alt="Rafa-pic" height="200" style="border-radius:50px;" src="https://i.blogs.es/435a43/7_navegando/450_1000.gif">
+  
 </div>
 
 <div>
