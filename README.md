@@ -1,6 +1,6 @@
  <div>
       <img align="left" alt="welcome" height="300" style="border-radius:50px;" src="https://c.tenor.com/PfwqKNNydVEAAAAC/welcome.gif"> 
-  <img align="right" alt="Rafa-pic" height="200" style="border-radius:50px;" src="https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966">
+ 
  </div>
  
 
