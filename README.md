@@ -10,11 +10,11 @@ Hi my name is Rony !👋🖥️👨‍💻
 - 🌱 I’m currently learning desarrollo full stack
 - 👯 I’m looking to collaborate on ...desarrollo de software backend y frontend
 - 💬 Ask me about ...tipos de lenguajes programación base datos 
-
+  <img align="right" alt="Rafa-pic" height="200" style="border-radius:50px;" src="https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966">
 <div alinear="centro">
   <a href="https://github.com/ronybolivar842">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ronybolivar842&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-   <img align="right" alt="Rafa-pic" height="200" style="border-radius:50px;" src="https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966">
+  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronybolivar842&layout=compact&langs_count=7&theme=dark"/>
    <img align="right" alt="Rafa-pic" height="200" style="border-radius:50px;" src="https://i.blogs.es/435a43/7_navegando/450_1000.gif">
    
